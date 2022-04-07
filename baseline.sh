@@ -17,7 +17,7 @@ echo -e """${CYAN}
 By Akash.C
 """
 if [[ $1 == '' ]] || [[ $1 == '-h' ]] || [[ $1 == '--help' ]]; then
-    printf "${YELLOW}[i]${END} sudo bash script.sh https://example.com username password \\n"
+    printf "${YELLOW}[i]${END} sudo bash baseline.sh https://example.com username password \\n"
 	exit 1
 fi
 
