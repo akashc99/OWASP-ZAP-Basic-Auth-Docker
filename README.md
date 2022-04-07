@@ -1,1 +1,1 @@
-# OWASP-ZAP-Basic-Auth-Docker
+# OWASP ZAP Scan with Basic HTTP auth in Docker
